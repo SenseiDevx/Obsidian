@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "5fc3f32726ad2240",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f2e34c61105d4cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53bb6c914ce8ba7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e812a00adb5604c",
+    "type": "split",
+    "children": [
+      {
+        "id": "be1f00495052e36c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cab0814f802fc53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac1d12f80630a16b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ассинхронн",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9421e1ab465dee5b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "690854e75d842117",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "f418dcde3eab37cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b0dc9ee26b31301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72034d334f1d48ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1d80048c51e5d23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74471d5eff486a3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a493595c36905a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7cab0814f802fc53",
+  "lastOpenFiles": [
+    "English",
+    "Frontend/javascript/js 2nd month/function/function declaration.md",
+    "Frontend/javascript/js 2nd month/function/function expression.md",
+    "Frontend/javascript/js 2nd month/циклы в js/цикл for.md",
+    "Frontend/javascript/js 2nd month/операторы/логические операторы.md",
+    "Frontend/javascript/js 2nd month/тип данных/типы данных.md",
+    "Frontend/React-redux/Жизненный цикл.md",
+    "Frontend/javascript/js 2nd month/методы/методы массивов и перебора/reverse.md",
+    "Frontend/javascript/js 2nd month/методы/методы массивов и перебора/map.md",
+    "Frontend/javascript/js 2nd month/методы/методы массивов и перебора/forEach.md",
+    "Frontend/javascript/js 2nd month/методы/методы массивов и перебора/методы массивов в jc.md",
+    "Frontend/javascript/js 2nd month/ООП/наследование.md",
+    "Frontend/javascript/js 2nd month/циклы в js/циклы в jc.md",
+    "Frontend/javascript/js 2nd month/циклы в js/цикл while.md",
+    "Frontend/javascript/js 2nd month/циклы в js/цикл for of.md",
+    "Frontend/javascript/js 2nd month/циклы в js/цикл for in.md",
+    "Frontend/javascript/js 2nd month/variables/глобальные переменные.md",
+    "Frontend/javascript/js 2nd month/variables/переменные.md",
+    "Frontend/javascript/js 2nd month/тип данных/ссылочный тип.md",
+    "Frontend/javascript/js 2nd month/тип данных/примитивные типы.md",
+    "Frontend/javascript/js 2nd month/тип данных/объекты в javascript.md",
+    "Frontend/React-redux/Redux/Redux toolkit/extraReducer/builder.md",
+    "Frontend/React-redux/Redux/Redux toolkit/extraReducer/addCase.md",
+    "Frontend/React-redux/Redux/Redux toolkit/configureStore.md",
+    "Frontend/React-redux/Redux/store/Store.md",
+    "Frontend/React-redux/Redux/Redux toolkit/redux toolkit.md",
+    "Frontend/React-redux/Redux/Redux toolkit/extraReducer",
+    "Frontend/React-redux/Redux/Redux toolkit",
+    "Frontend/React-redux/Redux/store",
+    "Pasted image 20230424165848.png",
+    "Frontend/React-redux/Redux",
+    "Frontend/React-redux/react-redux hooks/useSelector",
+    "Frontend/React-redux/react-router-dom",
+    "Pasted image 20230401115128.png",
+    "Frontend/React-redux/components",
+    "Frontend/React-redux/react-redux hooks",
+    "Frontend/React-redux",
+    "images/Pasted image 20230116172024.png",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Frontend/javascript/js 3rd month/ассинхронность/async await"
+  ]
+}
